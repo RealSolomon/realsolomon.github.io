@@ -118,12 +118,12 @@ img {
     margin-left: var(--mb-2);
     margin-right: var(--mb-2);
   }
-  .l-header{
+ .l-header{
     width: 100%;
     position: fixed;
     top: 0;
     left: 0;
-    z-index: var(--z-fixed);
+    z-index: 100;
     box-shadow: 0 1px 4px rgba(146,161,176,.15);
   }
   
